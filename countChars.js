@@ -10,3 +10,4 @@ function countChars(str) {
     return Bcount
 }
 console.log(countChars("Billy Bob Thornton likes to play Ball."));
+
