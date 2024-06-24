@@ -34,7 +34,7 @@ function countB(string) {
     return count;
 }
 
-console.log(countChars(string, "o"));
+console.log(countChars(string, "r"));
 function countChars(string, letter) {
     let count = 0;
     for (let char of string) {
